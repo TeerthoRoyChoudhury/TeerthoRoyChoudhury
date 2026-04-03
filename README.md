@@ -101,21 +101,6 @@ class Teertho:
 
 ---
 
-## `> currently_building`
-
-```bash
-$ ls -la ./projects
-
-📦 data-analytics-pipeline/     → GCP + BigQuery + Python
-📦 ml-experiments/              → Supervised & Unsupervised Learning
-📦 web-projects/                → Node.js + Tailwind + Full Stack
-📦 open-source-contributions/   → Always adding more...
-
-$ echo "More shipping in progress... 🚀"
-```
-
----
-
 <div align="center">
 
 **⚡ "I don't just analyze data — I build systems, solve problems, and ship results."**
