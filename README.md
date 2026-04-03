@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeerthoRoyChoudhury.TeerthoRoyChoudhury&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=TeerthoRoyChoudhury&style=for-the-badge&color=blueviolet" alt="profile views" />
 </div>
 
 <br/>
@@ -89,19 +89,11 @@ class Teertho:
 
 <img src="https://streak-stats.demolab.com?user=TeerthoRoyChoudhury&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8&fire=FF6B35&ring=FF6B35&currStreakLabel=FF6B35" height="195" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeerthoRoyChoudhury&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="195" alt="stats graph" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeerthoRoyChoudhury&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" height="180" alt="languages graph" />
-
 </div>
 
 ---
 
-## `> activity --graph`
+## `> contributions --year`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeerthoRoyChoudhury&radius=16&theme=tokyo-night&area=true&hide_border=false" height="300" alt="activity graph" />
@@ -109,9 +101,26 @@ class Teertho:
 
 ---
 
+## `> currently_building`
+
+```bash
+$ ls -la ./projects
+
+📦 data-analytics-pipeline/     → GCP + BigQuery + Python
+📦 ml-experiments/              → Supervised & Unsupervised Learning
+📦 web-projects/                → Node.js + Tailwind + Full Stack
+📦 open-source-contributions/   → Always adding more...
+
+$ echo "More shipping in progress... 🚀"
+```
+
+---
+
 <div align="center">
 
 **⚡ "I don't just analyze data — I build systems, solve problems, and ship results."**
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/TeerthoRoyChoudhury/TeerthoRoyChoudhury/output/snake.svg" alt="Snake animation" />
 
