@@ -1,92 +1,118 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRjejlramwxdXliNnU2ZDZ1bXZjdjU2YmcxcHl1bTU5bnZ3eWE0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" />
-</div>
 
-###
+```
+████████╗███████╗███████╗██████╗ ████████╗██╗  ██╗ ██████╗
+╚══██╔══╝██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║  ██║██╔═══██╗
+   ██║   █████╗  █████╗  ██████╔╝   ██║   ███████║██║   ██║
+   ██║   ██╔══╝  ██╔══╝  ██╔══██╗   ██║   ██╔══██║██║   ██║
+   ██║   ███████╗███████╗██║  ██║   ██║   ██║  ██║╚██████╔╝
+   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
+```
+
+</div>
 
 <div align="center">
   <a href="mailto:roychoudhuryteertho96@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/teertho-roychoudhury-824129260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeerthoRoyChoudhury.TeerthoRoyChoudhury&style=for-the-badge" />
 </div>
 
-###
+<br/>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## `> whoami`
 
-<h4 align="center">
-  Teertho Roychoudhury — B.Tech (ECE), VIT Vellore (2021–2025)
-</h4>
+```python
+class Teertho:
+    name      = "Teertho Roychoudhury"
+    degree    = "B.Tech ECE · VIT Vellore · 2021–2025"
+    based_in  = "India 🇮🇳"
+    mindset   = ["Problem Solver", "Builder", "Data Thinker"]
 
-###
+    def current_focus(self):
+        return [
+            "🔥 Building things that actually matter",
+            "📊 Turning messy data into sharp decisions",
+            "🤖 Experimenting with ML on real-world problems",
+            "🌐 Crafting full-stack web experiences",
+        ]
 
-<p align="left">
-📊 Driving <b>Data Analytics and Business Statistics</b> to support data-backed decision-making<br><br>
-🧠 Applying <b>Machine Learning</b> with Python, SQL, GCP, and BigQuery across real datasets<br><br>
-🚀 Delivering <b>scalable, insight-driven analytics solutions</b> with a strong business focus
-</p>
+    def life_philosophy(self):
+        return "Ship it. Learn. Iterate. Repeat."
+```
 
-###
+---
 
-<h3 align="left">🛠 Language and Tools</h3>
+## `> tech_stack --all`
 
-###
+### ☁️ Cloud & Data
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
+### 🧠 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-###
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">🔥 My Stats</h3>
+### ⚙️ Tools & Environments
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+---
+
+## `> git stats`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TeerthoRoyChoudhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
 
-###
+<img src="https://streak-stats.demolab.com?user=TeerthoRoyChoudhury&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8&fire=FF6B35&ring=FF6B35&currStreakLabel=FF6B35" height="195" alt="streak graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeerthoRoyChoudhury&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="195" alt="stats graph" />
+
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeerthoRoyChoudhury.TeerthoRoyChoudhury" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeerthoRoyChoudhury&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" height="180" alt="languages graph" />
+
 </div>
 
-###
+---
+
+## `> activity --graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeerthoRoyChoudhury&radius=16&theme=tokyo-night&area=true&hide_border=false" height="300" alt="activity graph" />
+</div>
+
+---
+
+<div align="center">
+
+**⚡ "I don't just analyze data — I build systems, solve problems, and ship results."**
 
 <img src="https://raw.githubusercontent.com/TeerthoRoyChoudhury/TeerthoRoyChoudhury/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeerthoRoyChoudhury&radius=16&theme=react&area=true" height="300" alt="activity graph" />
 </div>
