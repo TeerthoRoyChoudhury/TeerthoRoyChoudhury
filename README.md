@@ -101,12 +101,5 @@ class Teertho:
 
 ---
 
-<div align="center">
-
-**⚡ "I don't just analyze data — I build systems, solve problems, and ship results."**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/TeerthoRoyChoudhury/TeerthoRoyChoudhury/output/snake.svg" alt="Snake animation" />
 
 </div>
