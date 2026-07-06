@@ -24,6 +24,19 @@ jobs:
         with:
           node-version: 20
 
+      - name: Debug environment
+        env:
+          GH_USERNAME: TeerthoRoyChoudhury
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          echo "USERNAME=$GH_USERNAME"
+
+          if [ -n "$GH_TOKEN" ]; then
+            echo "TOKEN EXISTS"
+          else
+            echo "TOKEN MISSING"
+          fi
+
       - name: Generate stats SVG
         env:
           GH_USERNAME: TeerthoRoyChoudhury
